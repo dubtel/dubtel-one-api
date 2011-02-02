@@ -1,0 +1,4 @@
+09-21-2010 : JO : Renamed README and LICENSE files to README.txt and LICENSE.txt so windows users can easily open files after downloads.
+09-26-2010 : JO : Changed the DUBTEL Support link in the README.txt from http://developer.dubtel.com/?q=support-and-downloads to http://developer.dubtel.com/?q=developer
+09-26-2010 : JO : Changed section name Documenation to Documentation in README.txt
+09-26-2010 : JO : Upgraded version number to 0.0.2
